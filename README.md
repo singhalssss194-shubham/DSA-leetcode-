@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
