@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0018-4sum) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0071-simplify-path) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
