@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0071-simplify-path) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
