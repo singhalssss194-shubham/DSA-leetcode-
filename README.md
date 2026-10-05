@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1089-duplicate-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
