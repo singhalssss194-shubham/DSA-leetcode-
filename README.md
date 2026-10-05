@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0018-4sum) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
