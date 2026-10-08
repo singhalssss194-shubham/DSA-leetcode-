@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0071-simplify-path) |
+| [1021-remove-outermost-parentheses](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
