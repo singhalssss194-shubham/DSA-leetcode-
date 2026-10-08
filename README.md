@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1925-count-square-sum-triples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Binary Search
 |  |
 | ------- |
