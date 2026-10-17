@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0029-divide-two-integers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1925-count-square-sum-triples) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
