@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0977-squares-of-a-sorted-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2363-merge-similar-items) |
 ## Tree
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
