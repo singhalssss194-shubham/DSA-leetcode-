@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
