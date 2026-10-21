@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0217-contains-duplicate) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0217-contains-duplicate) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0217-contains-duplicate) |
 | [0923-3sum-with-multiplicity](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/singhalssss194-shubham/DSA-leetcode-/tree/master/2154-keep-multiplying-found-values-by-two) |
